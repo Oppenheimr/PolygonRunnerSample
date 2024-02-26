@@ -138,12 +138,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 754b6aa9c0df493ea97b5ae2dd54109d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  type: 1
+  scaleZAxis: 1
   coins:
   - {fileID: 5090325327415326607}
   - {fileID: 8975387207828387608}
   - {fileID: 8509451962189668398}
-  type: 1
-  scaleZAxis: 1
+  line: 1
 --- !u!114 &5176708023387089710
 MonoBehaviour:
   m_ObjectHideFlags: 0

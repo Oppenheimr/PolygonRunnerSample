@@ -71,7 +71,6 @@ namespace Player
 
             if (_isAir && Character.isGrounded && _motion.y < 0)
             {
-                Debug.Log("AIR");
                 _isAir = false;
                 Animator.Play("Run");
             }

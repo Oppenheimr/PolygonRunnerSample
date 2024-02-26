@@ -182,6 +182,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 754b6aa9c0df493ea97b5ae2dd54109d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  type: 2
+  scaleZAxis: 10
   coins:
   - {fileID: 7111106100475501534}
   - {fileID: 5014525563737851829}
@@ -205,8 +207,7 @@ MonoBehaviour:
   - {fileID: 5118644908937604850}
   - {fileID: 71163037514599901}
   - {fileID: 7892458549538888428}
-  type: 2
-  scaleZAxis: 10
+  line: 1
 --- !u!1001 &91292923054731731
 PrefabInstance:
   m_ObjectHideFlags: 0

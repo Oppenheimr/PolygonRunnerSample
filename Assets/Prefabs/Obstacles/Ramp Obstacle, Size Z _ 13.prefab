@@ -60,6 +60,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 754b6aa9c0df493ea97b5ae2dd54109d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  type: 3
+  scaleZAxis: 12
   coins:
   - {fileID: 1057494840907048319}
   - {fileID: 6441299030814649319}
@@ -70,8 +72,7 @@ MonoBehaviour:
   - {fileID: 5264021497350702962}
   - {fileID: 331052561039661950}
   - {fileID: 1249804839440923618}
-  type: 3
-  scaleZAxis: 12
+  line: 1
 --- !u!1 &8606073202421742603
 GameObject:
   m_ObjectHideFlags: 0
